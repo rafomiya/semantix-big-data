@@ -1,0 +1,16 @@
+# Summary
+
+1. [Introduction to Redis](01_introduction.md)
+2. [The key-value structure](02_key_value_strucutre.md)
+3. [Strings](03_strings.md)
+4. [Exercise: strings](04_exercises_strings.md)
+5. [Lists](05_lists.md)
+6. [Exercise: lists](06_exercises_list.md)
+7. [Sets](07_sets.md)
+8. [Exercise: sets](08_exercises_sets.md)
+9. [Sorted sets](09_sorted_sets.md)
+10. [Exercise: sorted sets](10_exercises_sorted_sets.md)
+11. [Hashs](11_hashs.md)
+12. [Exercise: hashs](12_exercises_hashs.md)
+13. [Pub/sub](13_pubsub.md)
+14. [Exercise: pub/sub](14_exercises_pubsub.md)
